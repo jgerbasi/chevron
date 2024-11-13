@@ -1,6 +1,11 @@
-#gameCanvas {
-    width: 500px;
+#canvasWrapper {
     height: 500px;
+}
+
+#gameCanvas {
+    width: 1800px;
+    height: 720px;
+    background-color: rgb(85, 85, 85);
 }
 
 body {
